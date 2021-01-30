@@ -2,4 +2,4 @@
 
 ---
 
-![Pandas Love Data Science]()
+![Pandas Love Data Science](/pics/pandas.jpeg)
